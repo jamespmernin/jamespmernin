@@ -1,0 +1,4 @@
+- 👋 Hi, I’m James Mernin @jamespmernin
+- 👀 I’m interested in a career as a software developer. I have a Bachelor's degree in Computer Science from Tufts University, an elite school located in the Greater Boston area.
+- 🌱 I’m currently learning web development (HTML/CSS/JavaScript) and I am also interested in Python and SQL as well.
+- 📫 The most reliable way to reach me is by email - jamespmernin@gmail.com
